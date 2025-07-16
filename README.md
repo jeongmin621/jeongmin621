@@ -7,7 +7,7 @@ SSAFY 14기 교육생 | Python & Java Software Developer
 *GitHub*: [https://github.com/jeongmin621]
 <br><br>
 ## Skills
-**Python**
+<img src="./python_icon.png" width="30px" height="30px"/> **Python**
 
 객체지향 프로그래밍(OOP) 기반의 소프트웨어 설계 가능
 
@@ -15,7 +15,7 @@ Open API 활용, 데이터 수집 및 가공 경험
 
 Pytest를 활용한 단위 테스트 및 TDD 기초 이해
 
-<img src="./java_icon.png" width="30px" height="30px"/>**Java**
+<img src="./java_icon.png" width="30px" height="30px"/> **Java**
 
 Java 기반의 웹 애플리케이션 개발 (Spring Boot, MyBatis)
 
@@ -23,7 +23,7 @@ JSP/Thymeleaf 기반의 템플릿 엔진 활용 경험
 
 설계 패턴 적용 및 RESTful API 구현 능숙
 
-<img src="./spring_icon.png" width="30px" height="30px"/>**Spring / Spring Boot**
+<img src="./spring_icon.png" width="30px" height="30px"/> **Spring / Spring Boot**
 
 MVC 패턴 기반의 웹 구조 설계 및 개발
 
@@ -31,7 +31,7 @@ MVC 패턴 기반의 웹 구조 설계 및 개발
 
 간단한 보안 설정(Spring Security), Validation 처리 등 실습 경험
 
-**Frontend (HTML/CSS/JS)**
+<img src="./javascript_icon.png" width="30px" height="30px"/> **Frontend (HTML/CSS/JS)**
 
 반응형 웹 UI 개발 및 DOM 제어
 
@@ -39,7 +39,7 @@ JavaScript의 비동기 처리(Ajax) 및 Axios 활용
 
 데이터 시각화를 위한 Chart.js, Kakao Map API 활용
 
-**Database (MySQL / Oracle)**
+<img src="./mariadb_icon.png" width="30px" height="30px"/> **Database (MySQL / MariaDB)**
 
 SQL 기본/심화 문법 활용 가능 (JOIN, 서브쿼리, 트랜잭션 등)
 
@@ -47,7 +47,7 @@ ERD 설계 및 DB 연동 (MyBatis, JPA 일부 학습)
 
 SQLD 자격 취득 준비 중
 
-**Tools & Collaboration**
+<img src="./github_logo.png" width="30px" height="30px"/> **Tools & Collaboration**
 
 Git/GitHub를 이용한 팀 프로젝트 협업 경험
 
@@ -74,7 +74,7 @@ Spring Boot와 MySQL을 기반으로 한 영화 예매 시스템
 
 목표: SM(시스템 유지보수) 역량 강화 + API 연동 능력 심화
 <br><br>
-## Education
+<img src="./education_icon.png" width="30px" height="30px"/>## Education
 SSAFY 9기 파이썬 반 교육 중 (삼성 청년 SW 아카데미)
 
 ○○대학교 기계공학과 졸업 / ‘XX.03 ~ ‘XX.08
