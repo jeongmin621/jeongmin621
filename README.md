@@ -1,15 +1,15 @@
-## <img src="./developer_icon.png" width="35px" height="35px"/> 김 정 민
+## <img src="img/developer_icon.png" width="35px" height="35px"/> 김 정 민
 SSAFY 14기 교육생 | Python & Java Software Developer
 <br><br>
 
-## Contact
+## <img src="img/contact_icon.png" width="35px" height="35px"/> Contact
 *Email*: [jeonminee22@gmail.com]
 
 *GitHub*: [https://github.com/jeongmin621]
 <br><br>
 
-## Skills
-<img src="./python_icon.png" width="20px" height="20px"/> **Python**
+## <img src="img/skills_icon.png" width="35px" height="35px"/> Skills
+<img src="./python_icon.png" width="15px" height="15px"/> **Python**
 
 - 객체지향 프로그래밍(OOP) 기반의 소프트웨어 설계 가능
 
@@ -17,7 +17,7 @@ SSAFY 14기 교육생 | Python & Java Software Developer
 
 - Pytest를 활용한 단위 테스트 및 TDD 기초 이해
 
-<img src="./java_icon.png" width="20px" height="20px"/> **Java**
+<img src="img/java_icon.png" width="15px" height="15px"/> **Java**
 
 - Java 기반의 웹 애플리케이션 개발 (Spring Boot, MyBatis)
 
@@ -25,7 +25,7 @@ SSAFY 14기 교육생 | Python & Java Software Developer
 
 - 설계 패턴 적용 및 RESTful API 구현 능숙
 
-<img src="./spring_icon.png" width="20px" height="20px"/> **Spring / Spring Boot**
+<img src="img/spring_icon.png" width="15px" height="15px"/> **Spring / Spring Boot**
 
 - MVC 패턴 기반의 웹 구조 설계 및 개발
 
@@ -33,7 +33,7 @@ SSAFY 14기 교육생 | Python & Java Software Developer
 
 - 간단한 보안 설정(Spring Security), Validation 처리 등 실습 경험
 
-<img src="./javascript_icon.png" width="20px" height="20px"/> **Frontend (HTML/CSS/JS)**
+<img src="img/javascript_icon.png" width="15px" height="15px"/> **Frontend (HTML/CSS/JS)**
 
 - 반응형 웹 UI 개발 및 DOM 제어
 
@@ -41,7 +41,7 @@ SSAFY 14기 교육생 | Python & Java Software Developer
 
 - 데이터 시각화를 위한 Chart.js 활용
 
-<img src="./mariadb_icon.png" width="20px" height="20px"/> **Database (MySQL / MariaDB)**
+<img src="img/mariadb_icon.png" width="15px" height="15px"/> **Database (MySQL / MariaDB)**
 
 - SQL 기본/심화 문법 활용 가능 (JOIN, 서브쿼리, 트랜잭션 등)
 
@@ -49,14 +49,14 @@ SSAFY 14기 교육생 | Python & Java Software Developer
 
 - SQLD 자격 취득
 
-<img src="./github_logo.png" width="20px" height="20px"/> **Tools & Collaboration**
+<img src="img/github_logo.png" width="15px" height="15px"/> **Tools & Collaboration**
 
 - Git/GitHub를 이용한 팀 프로젝트 협업 경험
 
 - VSCode, IntelliJ, PyCharm, Jupyter Notebook 사용 경험
 <br><br>
 
-## Project
+## <img src="img/project_icon.png" width="35px" height="35px"/> Project
 1. -
 2. -
 3. -
@@ -64,19 +64,19 @@ SSAFY 14기 교육생 | Python & Java Software Developer
 5. -
 <br><br>
 
-## <img src="./education_icon.png" width="35px" height="35px"/> Education
+## <img src="img/education_icon.png" width="35px" height="35px"/> Education
 - SSAFY 14기 파이썬 트랙
 
 - 국립안동대학교 기계공학과 졸업
 <br><br>
 
-## Certification
+## <img src="img/certification_icon.png" width="35px" height="35px"/> Certification
 - 정보처리기사
 - 정보보안기사
 - SQLD
 <br><br>
 
-## Career Goals and Aspirations
-"현장에 강한 개발자"가 되기 위해, 실제 데이터를 다루고 문제를 해결하는 역량을 길러가고 있습니다.
+## <img src="img/goals_icon.png" width="35px" height="35px"/> Career Goals and Aspirations
+`현장에 강한 개발자`가 되기 위해, 실제 데이터를 다루고 문제를 해결하는 역량을 길러가고 있습니다.
 다양한 기술을 익히되, 하나하나를 제대로 이해하고 실전 프로젝트에 적용하는 것을 목표로 합니다.
 
