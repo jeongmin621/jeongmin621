@@ -1,4 +1,4 @@
-## <img src="./icons8-developer-64.png" width="35px" height="35px"/> 김 정 민
+## <img src="./developer_icon.png" width="35px" height="35px"/> 김 정 민
 SSAFY 14기 교육생 | Python & Java Software Developer
 <br><br>
 ## Contact
