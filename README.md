@@ -1,5 +1,4 @@
-![개발자 이모티콘](<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/fe109ef5-12b0-4d9c-9a17-809fb4bebd4b" />
-)## 김 정 민
+## <img src="./icons8-developer-64.png" width="35px" height="35px"/> 김 정 민
 SSAFY 14기 교육생 | Python & Java Software Developer
 <br><br>
 ## Contact
@@ -16,7 +15,7 @@ Open API 활용, 데이터 수집 및 가공 경험
 
 Pytest를 활용한 단위 테스트 및 TDD 기초 이해
 
-**Java**
+<img src="./java_icon.png" width="30px" height="30px"/>**Java**
 
 Java 기반의 웹 애플리케이션 개발 (Spring Boot, MyBatis)
 
@@ -24,7 +23,7 @@ JSP/Thymeleaf 기반의 템플릿 엔진 활용 경험
 
 설계 패턴 적용 및 RESTful API 구현 능숙
 
-**Spring / Spring Boot**
+<img src="./spring_icon.png" width="30px" height="30px"/>**Spring / Spring Boot**
 
 MVC 패턴 기반의 웹 구조 설계 및 개발
 
