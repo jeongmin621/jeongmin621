@@ -77,6 +77,6 @@ SSAFY 14기 교육생 | Python & Java Software Developer
 <br><br>
 
 ## <img src="img/goals_icon.png" width="35px" height="35px"/> Career Goals and Aspirations
-`현장에 강한 개발자`가 되기 위해, 실제 데이터를 다루고 문제를 해결하는 역량을 길러가고 있습니다.
+**현장에 강한 개발자**가 되기 위해, 실제 데이터를 다루고 문제를 해결하는 역량을 길러가고 있습니다.
 다양한 기술을 익히되, 하나하나를 제대로 이해하고 실전 프로젝트에 적용하는 것을 목표로 합니다.
 
