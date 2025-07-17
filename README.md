@@ -67,7 +67,7 @@ SSAFY 14기 교육생 | Python & Java Software Developer
 ## <img src="img/education_icon.png" width="35px" height="35px"/> Education
 - SSAFY 14기 파이썬 트랙
 
-- 국립안동대학교 기계공학과 졸업
+- 안동대학교 기계공학과 졸업
 <br><br>
 
 ## <img src="img/certification_icon.png" width="35px" height="35px"/> Certification
