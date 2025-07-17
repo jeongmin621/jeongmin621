@@ -13,7 +13,7 @@ Python & Java Software Developer</small>
 <br><br>
 
 ## <img src="img/skills_icon.png" width="35px" height="35px"/> Skills
-<img src="./python_icon.png" width="15px" height="15px"/> **Python**
+<img src="img/python_icon.png" width="15px" height="15px"/> **Python**
 
 - 객체지향 프로그래밍(OOP) 기반의 소프트웨어 설계 가능
 
