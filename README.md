@@ -1,7 +1,9 @@
-![](img/turtle.gif)
+<img src="img/turtle.gif" width="200px" height="200px"/>
 
-## <img src="img/developer_icon.png" width="35px" height="35px"/> 김 정 민
-SSAFY 14기 교육생 | Python & Java Software Developer
+## 김 정 민 <img src="img/bubbles_icon.png" width="35px" height="35px"/>
+Python & Java Software Developer</small>
+
+---
 <br><br>
 
 ## <img src="img/contact_icon.png" width="35px" height="35px"/> Contact
