@@ -1,5 +1,3 @@
-<img src="img/turtle.gif" width="200px" height="200px"/>
-
 ## 김 정 민 <img src="img/bubbles_icon.png" width="35px" height="35px"/>
 Python & Java Software Developer</small>
 
